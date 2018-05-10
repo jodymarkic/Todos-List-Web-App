@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"generate",
+				"generateRandomColors"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"th",
+				"th\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Udemy/The Web Developer Bootcamp/JQuery_exercises/jQueryMethods.js",
+		"/D/Udemy/The Web Developer Bootcamp/JQuery_exercises/jQueryMethods.html",
+		"/D/Udemy/The Web Developer Bootcamp/JQuery_exercises/jQueryDemo.html",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/RGB_Color_Guesser/index.js",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/RGB_Color_Guesser/index.css",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/RGB_Color_Guesser/index.html",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/todo.html",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/todo.js",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/todo.css",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/ScoreKeeper.css",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/ScoreKeeper.js",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/ScoreKeeper.html",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/color_changer.css",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/color_changer.js",
+		"/D/Udemy/The Web Developer Bootcamp/DOM_exercises/color_changer.html",
+		"/D/Udemy/The Web Developer Bootcamp/JavaScript_exercises/scriptdemo.html",
+		"/D/Udemy/The Web Developer Bootcamp/JavaScript_exercises/script.js",
+		"/D/Udemy/The Web Developer Bootcamp/bootstrap_exercises/HeavyPetting/app.css",
+		"/D/Udemy/The Web Developer Bootcamp/bootstrap_exercises/HeavyPetting/index.html",
+		"/D/Udemy/The Web Developer Bootcamp/bootstrap_exercises/image_gallery.html",
+		"/D/Udemy/The Web Developer Bootcamp/bootstrap_exercises/image_gallery.css",
+		"/D/Udemy/The Web Developer Bootcamp/bootstrap_exercises/navbar.html",
+		"/D/Udemy/The Web Developer Bootcamp/bootstrap_exercises/grid.html",
+		"/D/Udemy/The Web Developer Bootcamp/bootstrap_exercises/basics.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/squareImages.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/blog.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/blog.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/squareImages.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/ticTacToe.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/ticTacToe.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/boxmodel.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/boxmodel.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/fonts.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/fonts.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/selectors.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/selectorsExercise.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/specificity.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/toDoList.html",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/toDoList.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/aboutMe.css",
+		"/D/Udemy/The Web Developer Bootcamp/css_exercises/aboutMe.html",
+		"/D/Udemy/The Web Developer Bootcamp/html_exercises/quiz4.html",
+		"/D/Udemy/The Web Developer Bootcamp/html_exercises/inputs.html",
+		"/D/Udemy/The Web Developer Bootcamp/html_exercises/forms.html",
+		"/D/Udemy/firstPage.html",
+		"/D/Udemy/The Web Developer Bootcamp/quiz3.html",
+		"/D/Udemy/quiz2.html",
+		"/D/Udemy/page2.html",
+		"/D/Udemy/secondDemo.html",
+		"/D/Udemy/quiz1.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
